@@ -119,3 +119,6 @@ src/pafprocess/pafprocess.py
 src/pafprocess/pafprocess_wrap.cpp
 src/pafprocess/pafprocess_wrap.cxx
 .idea
+poese_demo_3.mp4
+*.mp4
+json*
