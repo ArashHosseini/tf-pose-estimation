@@ -9,3 +9,5 @@ scipy
 slidingwindow
 tqdm
 git+https://github.com/ppwwyyxx/tensorpack.git
+opencv-python
+tensorflow==1.4.1
